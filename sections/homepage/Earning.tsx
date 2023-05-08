@@ -20,7 +20,7 @@ const EARNINGS = [
 	{
 		id: 'Project Funding',
 		title: 'Project Funding',
-		copy: 'Funds PG & Community projects bvased on the councilors votes',
+		copy: 'Funds PG & Community projects based on the councilors votes',
 		image: <VoteNGovernIcon />,
 	},
 	{
