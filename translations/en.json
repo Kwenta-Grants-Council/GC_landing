@@ -3,10 +3,10 @@
 		"en": "English"
 	},
 	"meta": {
-		"description": "Gain exposure to cryptocurrencies, forex and commodities on Ethereum with zero slippage",
+		"description": "Funding Kwenta related community & public goods projects | Community Driven",
 		"og": {
-			"title": "Kwenta",
-			"site-name": "Kwenta"
+			"title": "Kwenta GC",
+			"site-name": "Kwenta GC"
 		}
 	},
 	"header": {
@@ -49,7 +49,7 @@
 		}
 	},
 	"homepage": {
-		"page-title": "Kwenta | Derivatives Trading with Infinite Liquidity",
+		"page-title": "Kwenta Grants Council",
 		"nav": {
 			"trade-now": "JOIN NOW",
 			"wallet": "Connect Wallet",
