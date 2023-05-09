@@ -27,7 +27,7 @@ export const EXTERNAL_LINKS = {
 		Twitter: 'https://twitter.com/kwentagc',
 		Mirror: 'https://mirror.xyz/kwentagc.eth',
 		Discord: 'https://discord.com/invite/hGTyqQzaBb',
-		GitHub: 'https://github.com/kwentagc',
+		GitHub: 'https://github.com/Kwenta-Grants-Council',
 	},
 	TokenLists: {
 		Zapper: 'https://zapper.fi/api/token-list',
