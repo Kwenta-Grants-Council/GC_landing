@@ -5,7 +5,6 @@ import styled, { ThemeProvider } from 'styled-components';
 import TwitterLogo from 'assets/svg/marketing/twitter-icon.svg';
 import DiscordLogo from 'assets/svg/social/discord.svg';
 import MirrorLogo from 'assets/svg/social/mirror.svg';
-import GithubLogo from 'aassets/svg/social/github.svg';
 import { FlexDivCentered } from 'components/layout/flex';
 import PoweredBySynthetix from 'components/PoweredBySynthetix';
 import { Body } from 'components/Text';
@@ -109,9 +108,6 @@ const Footer = memo(() => {
 						</ExternalLink>
 						<ExternalLink href={EXTERNAL_LINKS.Social.Mirror}>
 							<MirrorLogo />
-						</ExternalLink>
-						<ExternalLink href={EXTERNAL_LINKS.Social.Github}>
-							<GithubLogo />
 						</ExternalLink>
 					</SocialIcons>
 				</LogoFooter>
