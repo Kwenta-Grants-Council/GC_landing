@@ -1,7 +1,7 @@
 
 # Kwenta Grant Council 
 
-https://andrea0x.eth.limo/
+https://kwentagc.eth.limo/
 
 
 ### Install dependencies
