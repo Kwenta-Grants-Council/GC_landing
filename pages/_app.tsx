@@ -115,7 +115,7 @@ const App: FC<AppProps> = (props) => {
 				<meta name="twitter:card" content="summary_large_image" />
 				<meta name="twitter:site" content="@kwentaGC" />
 				<meta name="twitter:creator" content="@kwentaCG" />
-				<meta name="twitter:image" content="https://kwentagc.eth.limo/images/kwenta-twitter.jpg" />
+				<meta name="twitter:image" content="/images/kwenta-twitter.jpg" />
 				<meta name="twitter:url" content="https://kwentagc.eth.limo" />
 				<link rel="icon" href="/images/favicon.svg" />
 			</Head>
