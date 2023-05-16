@@ -101,11 +101,10 @@ const App: FC<AppProps> = (props) => {
 				<meta charSet="utf-8" />
 				<meta
 					name="viewport"
-					content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0"
-				/>
+					content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0"/>
 				<meta name="description" content={t('meta.description')} />
 				{/* open graph */}
-				<meta property="og:url" content="https://kwenta.eth.limo/" />
+				<meta property="og:url" content="https://kwentagc.eth.limo/" />
 				<meta property="og:type" content="website" />
 				<meta property="og:title" content={t('meta.og.title')} />
 				<meta property="og:description" content={t('meta.description')} />
@@ -114,10 +113,10 @@ const App: FC<AppProps> = (props) => {
 				<meta property="og:site_name" content={t('meta.og.site-name')} />
 				{/* twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
-				<meta name="twitter:site" content="@kwenta_io" />
-				<meta name="twitter:creator" content="@kwenta_io" />
+				<meta name="twitter:site" content="@kwentaGC" />
+				<meta name="twitter:creator" content="@kwentaCG" />
 				<meta name="twitter:image" content="https://kwentagc.eth.limo/images/kwenta-twitter.jpg" />
-				<meta name="twitter:url" content="https://kwenta.eth.limo" />
+				<meta name="twitter:url" content="https://kwentagc.eth.limo" />
 				<link rel="icon" href="/images/favicon.svg" />
 			</Head>
 			<Provider store={store}>
